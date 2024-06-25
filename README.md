@@ -28,5 +28,4 @@ Usage
 4. Run the executable file to launch the program.
 5. Follow the on-screen instructions to perform various operations in the school management system.
 
-##Learnings
 
