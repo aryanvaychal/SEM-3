@@ -20,10 +20,13 @@ Technologies Used
 - Programming Language: C
 - Data Structure: Binary Trees
 
-Usage
+Usage 
 -----
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Compile the source code using a C compiler.
 4. Run the executable file to launch the program.
 5. Follow the on-screen instructions to perform various operations in the school management system.
+
+##Learnings
+
